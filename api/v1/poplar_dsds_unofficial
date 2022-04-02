@@ -1,0 +1,19 @@
+{
+    "response": [
+        {
+            "incremental": "eng.artek.20220402.203201",
+            "api_level": "30",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/OTA_test/lineage-18.1-20220403-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1648932307,
+            "md5sum": "",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/OTA_test",
+            "channel": "unofficial",
+            "filename": "lineage-18.1-20220403-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1648932307,
+            "version": "18.1",
+            "id": "d943b453cbafc2b5a7d7eb434ccdfe6ae175ca25abf722df0bf3af89fd1c41b4",
+            "size": 766021575
+        }
+    ]
+}
