@@ -1,14 +1,5 @@
 [
   {
-    "name": "ADeadTrousers/android_device_Unihertz_Atom_L_EEA"
-  },
-  {
-    "name": "ADeadTrousers/android_device_Unihertz_Atom_L_TEE"
-  },
-  {
-    "name": "ADeadTrousers/android_device_Unihertz_Atom_XL_EEA"
-  },
-  {
-    "name": "ADeadTrousers/android_device_Unihertz_Atom_XL_TEE"
+    "name": "jw96/LineageOTAstatic"
   }
 ]
