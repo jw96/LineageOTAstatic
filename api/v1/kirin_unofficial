@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20220718.221548",
+            "api_level": "30",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/19.7.22/lineage-18.1-20220719-UNOFFICIAL-kirin.zip",
+            "timestamp": 1658175292,
+            "md5sum": "bc0fc167ff2944155fc6ca9928c61eca",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/19.7.22",
+            "channel": "unofficial",
+            "filename": "lineage-18.1-20220719-UNOFFICIAL-kirin.zip",
+            "romtype": "unofficial",
+            "datetime": 1658175292,
+            "version": "18.1",
+            "id": "7bc1a08c1d89920d01a4992188664b1f054eaf573c6b1389e5fa4b0ffa9aa5ef",
+            "size": 675057906
+        },
+        {
             "incremental": "eng.artek.20220711.162530",
             "api_level": "30",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/11.7.22-kirin/lineage-18.1-20220711-UNOFFICIAL-kirin.zip",
