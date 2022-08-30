@@ -299,21 +299,6 @@
             "version": "18.1",
             "id": "370a98390ad1558a47601473262b90ded9907b33b8ec471a8eb9afc444df7a1e",
             "size": 768250546
-        },
-        {
-            "incremental": "",
-            "api_level": "",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/22.5.22/lineage-18.1-20220522-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1653232391,
-            "md5sum": "495da528b70d2288f676b052cf6b02a3",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/22.5.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220522-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1653232391,
-            "version": "18.1",
-            "id": "1f34e04254a8008815ef5d37f4c5097c22d51c428a7688dba78c2c8f3376f5ab",
-            "size": 768242941
         }
     ]
 }
