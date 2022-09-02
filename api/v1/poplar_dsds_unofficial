@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20220902.203527",
+            "api_level": "30",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/02.09.22_poplar_dsds_18.1/lineage-18.1-20220902-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1662143670,
+            "md5sum": "4cdffd0aef1ad28ed60f61cf0a16938d",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/02.09.22_poplar_dsds_18.1",
+            "channel": "unofficial",
+            "filename": "lineage-18.1-20220902-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1662143670,
+            "version": "18.1",
+            "id": "a101a3348cbb085f68b8d90250a95ae2b58008e37366916c367c7e43d14d8cc4",
+            "size": 769989158
+        },
+        {
             "incremental": "eng.artek.20220902.164734",
             "api_level": "32",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/02.09.22_poplar_dsds_19.1/lineage-19.1-20220902-UNOFFICIAL-poplar_dsds.zip",
@@ -284,21 +299,6 @@
             "version": "18.1",
             "id": "ec1150ee040a41119c38fc580a428b31d8fe9100f6285017c0dc34437d6cb0f0",
             "size": 769017624
-        },
-        {
-            "incremental": "eng.artek.20220611.154009",
-            "api_level": "30",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/11.6.22/lineage-18.1-20220611-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1654954753,
-            "md5sum": "7cd0ce563810ee79ea65e65d5c6323af",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/11.6.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220611-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1654954753,
-            "version": "18.1",
-            "id": "7b30634dbb23fabd46f9b95b6274523af6c73fb1de7093bcf5728ffbcf5894f1",
-            "size": 768999132
         }
     ]
 }
