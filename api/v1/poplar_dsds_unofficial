@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20220903.100426",
+            "api_level": "32",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/03.09.22_poplar_dsds_19.1/lineage-19.1-20220903-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1662192161,
+            "md5sum": "ae985267aa68ac0710c89d17987b3076",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/03.09.22_poplar_dsds_19.1",
+            "channel": "unofficial",
+            "filename": "lineage-19.1-20220903-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1662192161,
+            "version": "19.1",
+            "id": "43b46aa5630659049d0d98b85e723864d096d74928adf2dc63711657d38dbeef",
+            "size": 804108196
+        },
+        {
             "incremental": "eng.artek.20220902.203527",
             "api_level": "30",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/02.09.22_poplar_dsds_18.1/lineage-18.1-20220902-UNOFFICIAL-poplar_dsds.zip",
@@ -269,21 +284,6 @@
             "version": "19.1",
             "id": "18720546dc09a799765442930eeda1cc36ed5be03fb7385892f9a966ac96f138",
             "size": 808855752
-        },
-        {
-            "incremental": "eng.artek.20220624.163615",
-            "api_level": "30",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/24.6.22/lineage-18.1-20220624-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1656081323,
-            "md5sum": "4768f4a338587d64ab5991d71885f58f",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/24.6.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220624-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1656081323,
-            "version": "18.1",
-            "id": "098d6da080c33835a1c3898b34ddc538ee082e036dd7f03f81e8b85ef61ce313",
-            "size": 768890590
         }
     ]
 }
