@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20220904.174415",
+            "api_level": "32",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/04.09.22_poplar_dsds_19.1/lineage-19.1-20220904-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1662306136,
+            "md5sum": "72d11abb436c4d22a00b1bd494ba5d79",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/04.09.22_poplar_dsds_19.1",
+            "channel": "unofficial",
+            "filename": "lineage-19.1-20220904-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1662306136,
+            "version": "19.1",
+            "id": "29566e2abe5d0f26857eb20c7fd8d4ad26a5c5716f71884ba6c1b1bb922ef75a",
+            "size": 804105858
+        },
+        {
             "incremental": "eng.artek.20220903.175340",
             "api_level": "30",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/03.09.22_poplar_dsds_18.1/lineage-18.1-20220903-UNOFFICIAL-poplar_dsds.zip",
@@ -284,21 +299,6 @@
             "version": "18.1",
             "id": "370a98390ad1558a47601473262b90ded9907b33b8ec471a8eb9afc444df7a1e",
             "size": 768250546
-        },
-        {
-            "incremental": "",
-            "api_level": "",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/22.5.22/lineage-18.1-20220522-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1653232391,
-            "md5sum": "495da528b70d2288f676b052cf6b02a3",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/22.5.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220522-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1653232391,
-            "version": "18.1",
-            "id": "1f34e04254a8008815ef5d37f4c5097c22d51c428a7688dba78c2c8f3376f5ab",
-            "size": 768242941
         }
     ]
 }
