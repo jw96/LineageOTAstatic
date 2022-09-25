@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20220925.113009",
+            "api_level": "32",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/25.09.22_poplar_dsds_19.1/lineage-19.1-20220925-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1664098083,
+            "md5sum": "460303053eca90f0c4dd73beb508d348",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/25.09.22_poplar_dsds_19.1",
+            "channel": "unofficial",
+            "filename": "lineage-19.1-20220925-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1664098083,
+            "version": "19.1",
+            "id": "96840ceb63f5e2dc6b38f18b5752f4ae43615489a6470d6737d48aaa895500db",
+            "size": 804180171
+        },
+        {
             "incremental": "eng.artek.20220904.174415",
             "api_level": "32",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/04.09.22_poplar_dsds_19.1/lineage-19.1-20220904-UNOFFICIAL-poplar_dsds.zip",
@@ -269,21 +284,6 @@
             "version": "18.1",
             "id": "7b30634dbb23fabd46f9b95b6274523af6c73fb1de7093bcf5728ffbcf5894f1",
             "size": 768999132
-        },
-        {
-            "incremental": "eng.artek.20220603.173520",
-            "api_level": "30",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/3.6.22/lineage-18.1-20220603-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1654270462,
-            "md5sum": "c1ff6b8933e1c6ce026a8ff0d125f565",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/3.6.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220603-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1654270462,
-            "version": "18.1",
-            "id": "f7185e758a6edbaa75c3e53c9150a16d66b44b9ec2c7ad4a1c11fe8bd353baab",
-            "size": 768240313
         }
     ]
 }
