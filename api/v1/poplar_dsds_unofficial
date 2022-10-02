@@ -16,6 +16,21 @@
             "size": 804229590
         },
         {
+            "incremental": "eng.artek.20221002.142852",
+            "api_level": "30",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/02.10.22_poplar_dsds_18.1/lineage-18.1-20221002-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1664713669,
+            "md5sum": "77d375c96dc82b0a8fa4eda32de3f687",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/02.10.22_poplar_dsds_18.1",
+            "channel": "unofficial",
+            "filename": "lineage-18.1-20221002-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1664713669,
+            "version": "18.1",
+            "id": "d0b9ceb91a595064970e22c7d542a688121793f7cb150194dd99ff02689222f7",
+            "size": 769933691
+        },
+        {
             "incremental": "eng.artek.20220925.141908",
             "api_level": "32",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/25.09.22_poplar_dsds_19.1/lineage-19.1-20220925-UNOFFICIAL-poplar_dsds.zip",
@@ -254,21 +269,6 @@
             "version": "19.1",
             "id": "18720546dc09a799765442930eeda1cc36ed5be03fb7385892f9a966ac96f138",
             "size": 808855752
-        },
-        {
-            "incremental": "eng.artek.20220624.163615",
-            "api_level": "30",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/24.6.22/lineage-18.1-20220624-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1656081323,
-            "md5sum": "4768f4a338587d64ab5991d71885f58f",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/24.6.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220624-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1656081323,
-            "version": "18.1",
-            "id": "098d6da080c33835a1c3898b34ddc538ee082e036dd7f03f81e8b85ef61ce313",
-            "size": 768890590
         }
     ]
 }
