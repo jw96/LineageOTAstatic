@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20221002.102420",
+            "api_level": "32",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/02.10.22_poplar_dsds_19.1/lineage-19.1-20221002-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1664698951,
+            "md5sum": "abfdf47568114e4efe09e9fc692de47b",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/02.10.22_poplar_dsds_19.1",
+            "channel": "unofficial",
+            "filename": "lineage-19.1-20221002-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1664698951,
+            "version": "19.1",
+            "id": "a529a465a2a3f116771ff90f6124aba08ec66dbd556982e1ae999cb822a9d6d4",
+            "size": 804229590
+        },
+        {
             "incremental": "eng.artek.20220925.141908",
             "api_level": "32",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/25.09.22_poplar_dsds_19.1/lineage-19.1-20220925-UNOFFICIAL-poplar_dsds.zip",
@@ -254,21 +269,6 @@
             "version": "18.1",
             "id": "098d6da080c33835a1c3898b34ddc538ee082e036dd7f03f81e8b85ef61ce313",
             "size": 768890590
-        },
-        {
-            "incremental": "eng.artek.20220619.190404",
-            "api_level": "30",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/19.6.22/lineage-18.1-20220619-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1655658186,
-            "md5sum": "ef6f1c28bc483f0476854b5a9cbfac98",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/19.6.22",
-            "channel": "unofficial",
-            "filename": "lineage-18.1-20220619-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1655658186,
-            "version": "18.1",
-            "id": "ec1150ee040a41119c38fc580a428b31d8fe9100f6285017c0dc34437d6cb0f0",
-            "size": 769017624
         }
     ]
 }
