@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20221016.103325",
+            "api_level": "30",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/16.10.22_poplar_dsds_18.1/lineage-18.1-20221016-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1665909147,
+            "md5sum": "a9768ddab3a3e77ee6c63ae9bccd9420",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/16.10.22_poplar_dsds_18.1",
+            "channel": "unofficial",
+            "filename": "lineage-18.1-20221016-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1665909147,
+            "version": "18.1",
+            "id": "3e3fd2a1166b88d0fc08693dc961e68b45c2135d1a4c2583b5da5399b9aa9d58",
+            "size": 770509825
+        },
+        {
             "incremental": "eng.artek.20221015.234645",
             "api_level": "32",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/16.10.22_poplar_dsds_19.1/lineage-19.1-20221016-UNOFFICIAL-poplar_dsds.zip",
@@ -269,21 +284,6 @@
             "version": "19.1",
             "id": "3d96b5e076d2ab172ddbb3c95203014aa87aebb580dc7d2259973fc9ab47f9b5",
             "size": 809427692
-        },
-        {
-            "incremental": "eng.artek.20220702.151012",
-            "api_level": "32",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/2.7.22/lineage-19.1-20220702-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1656767289,
-            "md5sum": "5b477c6051712af1b510cae75bbb3fe8",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/2.7.22",
-            "channel": "unofficial",
-            "filename": "lineage-19.1-20220702-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1656767289,
-            "version": "19.1",
-            "id": "18720546dc09a799765442930eeda1cc36ed5be03fb7385892f9a966ac96f138",
-            "size": 808855752
         }
     ]
 }
