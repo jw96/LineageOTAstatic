@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.artek.20221112.141537",
+            "api_level": "32",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/12.11.22_poplar_dsds_19.1/lineage-19.1-20221112-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1668258854,
+            "md5sum": "254139c2ee212b934ddb1c2bf86d08d9",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/12.11.22_poplar_dsds_19.1",
+            "channel": "unofficial",
+            "filename": "lineage-19.1-20221112-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1668258854,
+            "version": "19.1",
+            "id": "fcd35ff2027a388390fb25bd9ac308972458dbafa2ec79964a55d5c4c33f3de5",
+            "size": 800621804
+        },
+        {
             "incremental": "eng.artek.20221106.204353",
             "api_level": "32",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/20221106_poplar_dsds_19.1/lineage-19.1-20221106-UNOFFICIAL-poplar_dsds.zip",
