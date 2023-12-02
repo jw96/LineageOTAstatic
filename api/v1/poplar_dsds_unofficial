@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.jw96.20231202.201430",
+            "api_level": "33",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/02.12.23_poplar_dsds_20.0/lineage-20.0-20231202-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1701547999,
+            "md5sum": "fd0a760f01fa0ab954cc1262eb481633",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/02.12.23_poplar_dsds_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20231202-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1701547999,
+            "version": "20.0",
+            "id": "df3a722247d541012202eb2901634a1ff8fc08f4d11610854b1f8769d0409e18",
+            "size": 834009769
+        },
+        {
             "incremental": "eng.jw96.20231115.215203",
             "api_level": "33",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/16.11.23_poplar_dsds_20.0/lineage-20.0-20231116-UNOFFICIAL-poplar_dsds.zip",
