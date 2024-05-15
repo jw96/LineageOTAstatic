@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.jw96.20240514.205601",
+            "api_level": "33",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/15.05.24_poplar_dsds_20.0/lineage-20.0-20240515-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1715712891,
+            "md5sum": "314fdf0264be197ba5c4e6cc3744f167",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/15.05.24_poplar_dsds_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20240515-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1715712891,
+            "version": "20.0",
+            "id": "835431d376db03d31dbbdfd0ab5c8efadc29b9a119ee517770b15325671f6570",
+            "size": 873203739
+        },
+        {
             "incremental": "eng.jw96.20240503.213549",
             "api_level": "33",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/04.05.24_poplar_dsds_20.0/lineage-20.0-20240504-UNOFFICIAL-poplar_dsds.zip",
@@ -434,21 +449,6 @@
             "version": "20.0",
             "id": "5cc499c22a82496e33c9ee97056ba1961201db01092b33de35c454d982437174",
             "size": 836025703
-        },
-        {
-            "incremental": "eng.artek.20230531.184433",
-            "api_level": "33",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/31.05.23_poplar_dsds_20.0/lineage-20.0-20230531-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1685551399,
-            "md5sum": "5bec623093ac9e2638c74fb1eacd030a",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/31.05.23_poplar_dsds_20.0",
-            "channel": "unofficial",
-            "filename": "lineage-20.0-20230531-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1685551399,
-            "version": "20.0",
-            "id": "73f691bfdd0c32f25f7343827c7b82d7bdc6f695e66c22c9c55af6c0310ca676",
-            "size": 834587348
         }
     ]
 }
