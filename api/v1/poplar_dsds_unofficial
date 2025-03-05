@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.jw96.20250305.064446",
+            "api_level": "33",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/05.03.25_poplar_dsds_20.0/lineage-20.0-20250305-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1741153434,
+            "md5sum": "c128ce26e2ede393fbb1f24d9dfb2d10",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/05.03.25_poplar_dsds_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20250305-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1741153434,
+            "version": "20.0",
+            "id": "8c5dc9f0fe6f9bbb3ca1a65bdb1bc684d7216405b5b4321291996eafd3701493",
+            "size": 869082495
+        },
+        {
             "incremental": "eng.jw96.20250207.181206",
             "api_level": "33",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/07.02.25_poplar_dsds_20.0/lineage-20.0-20250207-UNOFFICIAL-poplar_dsds.zip",
@@ -434,21 +449,6 @@
             "version": "20.0",
             "id": "130eadbe83a7870513f468296c56e4b41842dbc771ecaab092da232afab64af2",
             "size": 855504081
-        },
-        {
-            "incremental": "eng.jw96.20240419.225507",
-            "api_level": "33",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/20.04.24_poplar_dsds_20.0/lineage-20.0-20240420-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1713560036,
-            "md5sum": "d01593a8de17a557aa34ee6b0b8f957c",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/20.04.24_poplar_dsds_20.0",
-            "channel": "unofficial",
-            "filename": "lineage-20.0-20240420-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1713560036,
-            "version": "20.0",
-            "id": "e9bbc1e64d1763d3738e01de63ca3d6d94a5d4c75bab527774d91f57ffc24fd1",
-            "size": 855483573
         }
     ]
 }
