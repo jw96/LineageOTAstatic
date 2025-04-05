@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.jw96.20250405.182502",
+            "api_level": "33",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/05.04.25_poplar_dsds_20.0/lineage-20.0-20250405-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1743870241,
+            "md5sum": "c729cbdf692e54f7ff065745438d3443",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/05.04.25_poplar_dsds_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20250405-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1743870241,
+            "version": "20.0",
+            "id": "265a93b1200e54be90081b921461612e89080548fc97655763dd870047b84189",
+            "size": 869731087
+        },
+        {
             "incremental": "eng.jw96.20250305.064446",
             "api_level": "33",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/05.03.25_poplar_dsds_20.0/lineage-20.0-20250305-UNOFFICIAL-poplar_dsds.zip",
@@ -434,21 +449,6 @@
             "version": "20.0",
             "id": "f66a366be0ff207d19eda612c6f270747c3376b78d7eb27b5a759ae97f93b17c",
             "size": 873853503
-        },
-        {
-            "incremental": "eng.jw96.20240427.110123",
-            "api_level": "33",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/27.04.24_poplar_dsds_20.0/lineage-20.0-20240427-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1714208405,
-            "md5sum": "2a4d37ac47270824f6daba4774c316b7",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/27.04.24_poplar_dsds_20.0",
-            "channel": "unofficial",
-            "filename": "lineage-20.0-20240427-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1714208405,
-            "version": "20.0",
-            "id": "130eadbe83a7870513f468296c56e4b41842dbc771ecaab092da232afab64af2",
-            "size": 855504081
         }
     ]
 }
