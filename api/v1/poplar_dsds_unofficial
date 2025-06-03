@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.jw96.20250603.213921",
+            "api_level": "33",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/03.06.25_poplar_dsds_20.0/lineage-20.0-20250603-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1748979506,
+            "md5sum": "e861f93339db126ea5373f96e2693db1",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/03.06.25_poplar_dsds_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20250603-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1748979506,
+            "version": "20.0",
+            "id": "4f0c40c236343804de2c4da5a883c65101f6edc4d2703e7c5fef4122744bf442",
+            "size": 870900255
+        },
+        {
             "incremental": "eng.jw96.20250524.221409",
             "api_level": "33",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/24.05.25_poplar_dsds_20.0/lineage-20.0-20250524-UNOFFICIAL-poplar_dsds.zip",
@@ -434,21 +449,6 @@
             "version": "20.0",
             "id": "3bb1f675e86f991610a9c6deabef85765b6ca9f4fdcd1b0b15ca2e3e3f41ec81",
             "size": 874187364
-        },
-        {
-            "incremental": "eng.jw96.20240531.205231",
-            "api_level": "33",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/01.06.24_poplar_dsds_20.0/lineage-20.0-20240601-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1717181472,
-            "md5sum": "9cd72035efb4ce2614c76dd58f12332c",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/01.06.24_poplar_dsds_20.0",
-            "channel": "unofficial",
-            "filename": "lineage-20.0-20240601-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1717181472,
-            "version": "20.0",
-            "id": "18296f9a19cc45412e265a58bfd5496b092ccb91032708cb72769f83e2047a6b",
-            "size": 874164710
         }
     ]
 }
