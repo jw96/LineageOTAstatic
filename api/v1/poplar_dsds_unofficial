@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.jw96.20260501.000327",
+            "api_level": "33",
+            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/01.05.26_poplar_dsds_20.0/lineage-20.0-20260501-UNOFFICIAL-poplar_dsds.zip",
+            "timestamp": 1777586562,
+            "md5sum": "8988e0c2e2a367585d90dae9adba3ef2",
+            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/01.05.26_poplar_dsds_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20260501-UNOFFICIAL-poplar_dsds.zip",
+            "romtype": "unofficial",
+            "datetime": 1777586562,
+            "version": "20.0",
+            "id": "3613cca982e18d48c1a6ed81fba2889e69906418461d1ddfaa0b7559a7a7880c",
+            "size": 884593475
+        },
+        {
             "incremental": "eng.jw96.20260406.163134",
             "api_level": "33",
             "url": "https://github.com/jw96/LineageOTAstatic/releases/download/06.04.26_poplar_dsds_20.0/lineage-20.0-20260406-UNOFFICIAL-poplar_dsds.zip",
@@ -434,21 +449,6 @@
             "version": "20.0",
             "id": "85ac32682973d9fbba0ef66f7b08d8210db304a12b17e27d1009b64b7c79781e",
             "size": 866152670
-        },
-        {
-            "incremental": "eng.jw96.20240920.175124",
-            "api_level": "33",
-            "url": "https://github.com/jw96/LineageOTAstatic/releases/download/20.09.24_poplar_dsds_20.0/lineage-20.0-20240920-UNOFFICIAL-poplar_dsds.zip",
-            "timestamp": 1726847416,
-            "md5sum": "b1a4706b69bd18bbba0af9322ea32e78",
-            "changes": "https://github.com/jw96/LineageOTAstatic/releases/tag/20.09.24_poplar_dsds_20.0",
-            "channel": "unofficial",
-            "filename": "lineage-20.0-20240920-UNOFFICIAL-poplar_dsds.zip",
-            "romtype": "unofficial",
-            "datetime": 1726847416,
-            "version": "20.0",
-            "id": "179caaad6488a295368bf4e68edfcce4f4273ccc0378debb0c922d79cb93bb32",
-            "size": 865267336
         }
     ]
 }
